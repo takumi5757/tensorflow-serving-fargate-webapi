@@ -38,4 +38,6 @@ ALBのDNS/v1/models/mnist_arcface/
 
 - ALB設定とECSサービス設定のコード化
 
+- add requirements
+
 
