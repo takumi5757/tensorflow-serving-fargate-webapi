@@ -27,6 +27,11 @@ cdk deployで
 ALBのDNS/v1/models/mnist_arcface/
 ```
 
+samples/
+にECRにpushするDockerfileとお試し用のモデル学習のノートブックがあります
+お試し用モデルはarcfaceを使ったmnistの分類モデルです
+
+
 ## TODO
 - ECRのプライベートリポジトリからのpull([AWS docs](https://docs.aws.amazon.com/ja_jp/AmazonECR/latest/userguide/vpc-endpoints.html#ecr-setting-up-s3-gateway))
 
