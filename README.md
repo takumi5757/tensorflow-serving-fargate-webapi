@@ -33,7 +33,7 @@ samples/
 
 
 ## TODO
-- ECRのプライベートリポジトリからのpull([AWS docs](https://docs.aws.amazon.com/ja_jp/AmazonECR/latest/userguide/vpc-endpoints.html#ecr-setting-up-s3-gateway))
+- [ ] ECRのプライベートリポジトリからのpull([AWS docs](https://docs.aws.amazon.com/ja_jp/AmazonECR/latest/userguide/vpc-endpoints.html#ecr-setting-up-s3-gateway))
 
 	- Fargate(v1.4)では
 		- S3ゲートウェイエンドポイント
@@ -41,8 +41,6 @@ samples/
 
 		が必要
 
-- ALB設定とECSサービス設定のコード化
+- [ ] ALB設定とECSサービス設定のコード化
 
-- add requirements
-
-
+- [ ] add requirements
